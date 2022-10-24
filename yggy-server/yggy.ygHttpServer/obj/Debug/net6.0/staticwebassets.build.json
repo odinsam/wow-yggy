@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o5LTDJVPTavhnhmje+BFPKJtusaJ4o51NSulkcq4Yrg=",
+  "Source": "yggy.ygHttpServer",
+  "BasePath": "_content/yggy.ygHttpServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
